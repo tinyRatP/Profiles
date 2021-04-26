@@ -1,0 +1,16 @@
+host,        audio-ssl.itunes.apple.com, Apple
+host,        gspe1-ssl.ls.apple.com,     Apple
+host,        itunes.apple.com,           Apple
+host-suffix, aaplimg.com,                Apple
+host-suffix, apple.co,                   Apple
+host-suffix, apple.com,                  Apple
+host-suffix, appstore.com,               Apple
+host-suffix, cdn-apple.com,              Apple
+host-suffix, crashlytics.com,            Apple
+host-suffix, icloud-content.com,         Apple
+host-suffix, icloud.com,                 Apple
+host-suffix, icloud.com.cn,              Apple
+host-suffix, itunes.apple.com,           Apple
+host-suffix, me.com,                     Apple
+host-suffix, mzstatic.com,               Apple
+host-suffix, apple.cn,                   Apple

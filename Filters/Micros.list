@@ -1,0 +1,39 @@
+# Micros
+host-suffix, bitwarden.com, direct
+host-suffix, bitwarden.net, direct
+host-suffix, qq.com,        direct
+
+# Twitter
+host-suffix, t.co,        proxy
+host-suffix, twimg.co,    proxy
+host-suffix, twimg.com,   proxy
+host-suffix, twitpic.com, proxy
+host-suffix, twitter.com, proxy
+
+# Microsoft
+host-suffix, live.com,                              direct
+host-suffix, msocdn.com,                            direct
+host-suffix, office.net,                            direct
+host-suffix, msauth.net,                            direct
+host-suffix, microsoftonline.com,                   direct
+host-suffix, office.com,                            direct
+host-suffix, gfx.ms,                                direct
+host-suffix, microsoft.com,                         direct
+host-suffix, msecnd.net,                            direct
+host-suffix, office365.com,                         direct
+host-suffix, outlook.com,                           direct
+host-suffix, s-microsoft.com,                       direct
+host-suffix, visualstudio.com,                      direct
+host-suffix, windows.com,                           direct
+host-suffix, windowsupdate.com,                     direct
+host-suffix, officecdn-microsoft-com.akamaized.net, direct
+host-suffix, onedrive.live.com,                     direct
+host-suffix, xboxlive.com,                          direct
+host-suffix, 1drv.com,                              direct
+host-suffix, 1drv.ms,                               direct
+host-suffix, blob.core.windows.net,                 direct
+host-suffix, livefilestore.com,                     direct
+host-suffix, onedrive.com,                          direct
+host-suffix, storage.live.com,                      direct
+host-suffix, storage.msn.com,                       direct
+host-suffix, oneclient.sfx.ms,                      direct
