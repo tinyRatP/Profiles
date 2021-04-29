@@ -1,0 +1,10 @@
+# bitwarden
+host-suffix, bitwarden.com, proxy
+host-suffix, bitwarden.net, proxy
+
+# Twitter
+host-suffix, t.co,        proxy
+host-suffix, twimg.co,    proxy
+host-suffix, twimg.com,   proxy
+host-suffix, twitpic.com, proxy
+host-suffix, twitter.com, proxy

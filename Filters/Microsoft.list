@@ -1,15 +1,3 @@
-# Micros
-host-suffix, bitwarden.com, direct
-host-suffix, bitwarden.net, direct
-host-suffix, qq.com,        direct
-
-# Twitter
-host-suffix, t.co,        proxy
-host-suffix, twimg.co,    proxy
-host-suffix, twimg.com,   proxy
-host-suffix, twitpic.com, proxy
-host-suffix, twitter.com, proxy
-
 # Microsoft
 host-suffix, live.com,                              Microsoft
 host-suffix, msocdn.com,                            Microsoft

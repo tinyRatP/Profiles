@@ -1,0 +1,9 @@
+# Micros
+host-suffix, bitwarden.com, direct
+host-suffix, bitwarden.net, direct
+
+# Tencent
+host-suffix, qq.com,        direct
+
+# Amap
+host-suffix, autonavi.com, direct
