@@ -7,3 +7,4 @@ host-suffix, qq.com,        direct
 
 # Amap
 host-suffix, autonavi.com, direct
+host-suffix, amap.com,     direct
